@@ -10,6 +10,6 @@ setup(name='sys_info_comp30380',
       license='MIT',
       packages=['sys_info_comp30380'],
       entry_points={
-        'console_scripts':['sys_info_comp30380=prac2.main:main']
+        'console_scripts':['sys_info_comp30380=prac2.prac2.main:main']
       },
       zip_safe=False)
